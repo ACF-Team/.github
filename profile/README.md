@@ -3,7 +3,7 @@
 This organization contains all official projects related to ACF-3, an in-depth damage system addon for Garry's Mod.
 
 ## Contributing
-Found an annoying bug in the addon? Want to suggest a brand new feature? Think something should be changed? Make sure to check out [Contributing to ACF](https://github.com/Stooberton/ACF-3/blob/master/CONTRIBUTING.md), where we have a full guide on how to properly contribute to any of our projects.
+Found an annoying bug in one of our addons? Want to suggest a brand new feature? Think something should be changed? Make sure to check out [Contributing to ACF](https://github.com/Stooberton/ACF-3/blob/master/CONTRIBUTING.md), where we have a full guide on how to properly contribute to any of our projects.
 
 ---
 
